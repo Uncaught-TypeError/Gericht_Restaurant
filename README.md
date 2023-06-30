@@ -1,3 +1,6 @@
+# Gericht Restaurant
+![FireShot Capture 001 - Gericht Restaurant - localhost](https://github.com/Uncaught-TypeError/tailwind_small_project/assets/95492327/a75e0ffa-4144-40d9-b261-85f6e86b15b9)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
